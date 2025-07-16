@@ -103,7 +103,7 @@ h2 {
 .video-grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr); /* always 2 columns */
-  gap: 0;               /* no gap between columns */
+  gap: 10px;               /* no gap between columns */
   margin: 0;
   padding: 0;
   width: 100%;
